@@ -12,3 +12,15 @@ Fluxx is a card game that is perfect for any type of gathering and requires 2 or
 
 
 Our group of five players began the game with a few basic rules. However, it didn't take long for things to change as we started playing with Action, Rule, Keeper, and Goal cards. The Action cards enabled us to perform actions such as drawing extra cards or swapping Keepers with other players. The Rule cards modified the rules of the game, making it more exciting. The Keeper cards gave us a way to set up for victory, and the Goal cards showed us the conditions for winning.
+
+
+# Fluxx Session Report
+
+
+This session of Fluxx was played between four players: myself, Aneesh, Sai and Krajna. The game began with the Basic Rules card and the Draw 1, Play 1 Rule card. We all drew our starting hands of 3 cards each.
+
+The first round was led by myself, starting with an Action card, 'Take an Extra Turn'. I played this card, allowing me to draw and play two cards. I then used a Creeper card 'Zombies' to give myself and the other players a handicap of -1 card each. Aneesh then played an Action card, 'Swap Hands', allowing everyone to switch their hands.
+
+At this point, Sai played a Goal card, 'Robots & Aliens'. Krajna then played an Action card, 'Draw 3, Play 2', allowing everyone to draw 3 cards and play 2 cards. We then all drew our cards and began to plot our strategies.
+
+I played a Keeper card, 'Cats', followed by Aneesh playing an Action card, 'Take Another Turn'. We followed this up with Sai playing a Keeper card, 'Robots', and Krajna playing a Keeper card, 'Aliens'. After a few more turns, Sai was able to get the winning goal pair of 'Robots & Aliens', securing the victory
