@@ -1,15 +1,13 @@
-# The Game Lab
+# Game Lab
 
-## Game 1: Over/Under 
+## -Over/Under 
 
-In Over/Under, two teams take turns choosing a card and asking a question. The rest of the players then have to come to a conclusive answer. The questions are numerical, and the player who picked the card must guess whether the answer is over or under the number they chose. If their guess is correct, they get to keep the card and the turn continues.
+In Over/Under, two teams take turns selecting a card and posing a numerical question. The other players then must come to a conclusion regarding the answer. The player who chose the card must then guess whether the answer is higher or lower than the number given. If the guess is correct, they can keep the card and the turn passes to the next team.
 
-## Game 2: Fluxx 
+## -Fluxx 
 
-Fluxx is a game that requires 2 or more players and is perfect for any type of gathering. The game is easy to learn, but offers endless possibilities and strategies, making each game unique and different.
-
-In Fluxx, players start with basic rules, but the game changes constantly as players draw and play cards. There are four types of cards: Action, Keeper, Goal, and Rule. Each turn, a player draws a card and plays a card, changing the rules and goals of the game. The ultimate goal is to match the Keeper cards with the current Goal card in order to win.
+Fluxx is a card game that is perfect for any type of gathering and requires 2 or more players. It is easy to learn and offers endless possibilities and strategies, making each game unique and different. Players draw and play cards which can change the rules and goals of the game. The object of the game is to match the Keeper cards with the current Goal card in order to win. There are four types of cards: Action, Keeper, Goal, and Rule. Each turn, a player draws a card and plays a card, changing the rules and goals of the game.
 
 <img width="598" alt="image" src="https://user-images.githubusercontent.com/54965062/217737688-4caa42b1-9bc2-49cc-81e0-04b3146fb106.png">
 
-Our group was composed of five players, and we started the game with basic rules. It didn't take long for the game to change as we began to draw and play cards. The Action cards allowed us to complete various actions, such as drawing extra cards or swapping keepers with other players. The Rule cards changed the rules of the game, making it more challenging and exciting. The Keeper cards were used to set up for victory, and the Goal cards defined what was needed to win the game.
+Our group of five players began the game with a few basic rules. However, it didn't take long for things to change as we started playing with Action, Rule, Keeper, and Goal cards. The Action cards enabled us to perform actions such as drawing extra cards or swapping Keepers with other players. The Rule cards modified the rules of the game, making it more exciting. The Keeper cards gave us a way to set up for victory, and the Goal cards showed us the conditions for winning.
