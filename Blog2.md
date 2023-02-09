@@ -10,6 +10,5 @@ In Over/Under, two teams take turns selecting a card and posing a numerical ques
 
 Fluxx is a card game that is perfect for any type of gathering and requires 2 or more players. It is easy to learn and offers endless possibilities and strategies, making each game unique and different. Players draw and play cards which can change the rules and goals of the game. The object of the game is to match the Keeper cards with the current Goal card in order to win. There are four types of cards: Action, Keeper, Goal, and Rule. Each turn, a player draws a card and plays a card, changing the rules and goals of the game.
 
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/54965062/217737688-4caa42b1-9bc2-49cc-81e0-04b3146fb106.png">
 
 Our group of five players began the game with a few basic rules. However, it didn't take long for things to change as we started playing with Action, Rule, Keeper, and Goal cards. The Action cards enabled us to perform actions such as drawing extra cards or swapping Keepers with other players. The Rule cards modified the rules of the game, making it more exciting. The Keeper cards gave us a way to set up for victory, and the Goal cards showed us the conditions for winning.
