@@ -7,6 +7,9 @@ My game is centered around a square board with different piece landing tiles. Th
 Landing Tiles:
 
 White: Whatever you roll you gain in points
+
 Dotted: Flip a coin, whoever gets heads first takes any number of points from the other player
+
 Yellow: Whoever gets a six first from rolling a die wins 3 points
+
 Green stripe: Get one point
