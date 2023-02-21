@@ -46,7 +46,7 @@ Player 2 rolls a 3, lands on a green stripe tile and decided to use an ability t
 Player 1 rolls a 3, lands on a dotted tile and wins the coin flip, taking 4 points from Player 2.
 Player 2 rolls a 6, lands on a yellow tile and wins 3 points.
 
-PLayer 1 rolls a 3 and lands on a green striped square, winning 1 point and winning the game.
+Player 1 rolls a 3 and lands on a green striped square, winning 1 point and winning the game.
 
 This version included the abilities and I feel like it worked far better with it. It added a layer of strategy and complexity that was missing before. By this point I felt that the game was pretty much complete so I did not need to modify it any further. 
 
@@ -56,3 +56,5 @@ To conclude, the core mechanic of this game is dice rolling. Players take turns 
 The game board is a square with different types of tiles. The start tile is where players begin the game and the end tile is where the game ends. Abilities allow players to use their points to move back or forward a square. Landing tiles give players different outcomes when they land on them. Players take turns rolling the die and moving around the board. If the roll is a 6, the player can move to any tile on the board and choose the task they wish to complete. If the roll is a 1, the player must move one square only and complete the task on that tile. If the roll is a 2, 3, 4, or 5, the player must move in a clockwise direction the same number of squares as the roll. Players continue to move around the board, collecting points and completing tasks until one of them reaches 15 points. 
 
 Dice rolling is the main mechanic of this game and it is what makes the game exciting and unpredictable. Players must be strategic when rolling the die and managing their points in order to win the game. The game can be modified to include different types of dice with different numbers of faces, allowing for more variety and a different level of difficulty. In my opinion this game is an exciting way to play with friends and can easily provide hours of entertainment as a laid back game. 
+
+![Uploading 77DA20DE-175C-48E2-9E0B-8B78C2C2F690.JPG…]()
