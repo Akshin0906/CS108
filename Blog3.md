@@ -14,6 +14,9 @@ Yellow: Whoever gets a six first from rolling a die wins 3 points
 
 Green stripe: Get one point
 
+![image](https://user-images.githubusercontent.com/30399406/220259398-37556dfe-51fc-4f3e-8897-30dc2fba122b.JPG)
+
+
 ##Play Log
 
 Version 1: 
@@ -56,5 +59,3 @@ To conclude, the core mechanic of this game is dice rolling. Players take turns 
 The game board is a square with different types of tiles. The start tile is where players begin the game and the end tile is where the game ends. Abilities allow players to use their points to move back or forward a square. Landing tiles give players different outcomes when they land on them. Players take turns rolling the die and moving around the board. If the roll is a 6, the player can move to any tile on the board and choose the task they wish to complete. If the roll is a 1, the player must move one square only and complete the task on that tile. If the roll is a 2, 3, 4, or 5, the player must move in a clockwise direction the same number of squares as the roll. Players continue to move around the board, collecting points and completing tasks until one of them reaches 15 points. 
 
 Dice rolling is the main mechanic of this game and it is what makes the game exciting and unpredictable. Players must be strategic when rolling the die and managing their points in order to win the game. The game can be modified to include different types of dice with different numbers of faces, allowing for more variety and a different level of difficulty. In my opinion this game is an exciting way to play with friends and can easily provide hours of entertainment as a laid back game. 
-
-![Uploading 77DA20DE-175C-48E2-9E0B-8B78C2C2F690.JPG…]()
