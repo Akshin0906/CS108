@@ -36,6 +36,8 @@ Player 1 rolls a 4 and lands on white, getting to 15 points and winning the game
 
 This version does not have abilities, it is purely a game of the landing tiles. I decided to add the abilities to add a different dimension into the game and have the game be more strategic in the way the player utilizes their points. 
 
+
+
 Version 2:
 Player 1 rolls a 6, lands on a white tile and gains 6 points.
 Player 2 rolls a 5, lands on a green stripe tile and gains 1 point.
