@@ -17,7 +17,7 @@ Green stripe: Get one point
 ![image](https://user-images.githubusercontent.com/30399406/220259398-37556dfe-51fc-4f3e-8897-30dc2fba122b.JPG)
 
 
-##Play Log
+## Play Log
 
 Version 1: 
 Player 1 rolls the die and lands on a white tile, gaining 5 points.
