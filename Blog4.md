@@ -8,7 +8,7 @@ I found this game to be a very simple platformer game. The objective of the game
 
 This game had a completely different objective to the previous game I played. This felt more like a Tetris type of game with the way the blocks were shaped and moved. Despite that, the goal is to configure Tetris style blocks into specific angles to advance through levels. The primary mechanic for this game was messing around with the different ways you can contort the blocks. You can have them jump onto each other, turn them, and move them around. The biggest connection between these two was the nuance in the mechanics. These are both not your typical games with simple "wasd" controls. These controls take time to master and figure out. Mechanically I felt this was the critical connecton between the two, the game boils down to the player using the controls to compleet the given objectibe and move onto the next level.
 
-##Game 3: Slime Climb
+## Game 3: Slime Climb
 
 
 The objective of this game is to get as high as possible on the map as a slime ball, grabbing power-ups on the way. However, you have to be aware of the platforms below, due to the fact that getting stuck underneath them will end the game. The mechanics are basic, you can jump and turn left and right. The main focus is in the challenge of mastering the controls and avoiding ending up below the platforms. This game is also in the same mechanical category as the first two games I mentioned. 
