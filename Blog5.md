@@ -14,4 +14,4 @@ My role is the coder for the game. I am tasked with using Unity and C# to flesh 
 
 1) Players responded very favorably to our game, while they acknowledged it had some work to do. The state of our game that was presented was in a very rough form, but the playtesters all agreed that when polished the overall gameplay would be very fun and addicting.
 
-2) The number one thing I plan to focus on is to fix the collisions between the crystals and the player, so that the game can actually work as intended. Beyond that I expect to just expand by adding more levels and perhaps a timer along with a scoreboard. 
+2) The number one thing I plan to focus on is to fix the collisions between the crystals and the player, so that the game can actually work as intended. Beyond that I expect to just expand by adding more levels and perhaps a timer along with a scoreboard. The timer could perhaps give a new element to the game where the player can set personal records for how long they are able to survive in the cave, while the rocks fall faster and faster as time goes on. 
