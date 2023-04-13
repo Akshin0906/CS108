@@ -16,9 +16,6 @@ Note: When the game ends after you get hit with a falling boulder, it will pause
 
 Compared to our Alpha, the game is in a much better place. Initially I was having a lot of trouble with hit detection, and was unable to have the boulders or crystals register as hits. I also was having trouble setting up the scoring system. Now that all of that is fully functional, all that remains is to polish the game up from an aesthetics standpoint. I will spend the remaining few days before submission doing that with my partner. 
 
-
-# Game
-
 Link: https://akshin0906.github.io/Crystal/
 
 # Credits 
