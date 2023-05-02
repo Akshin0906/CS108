@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/30399406/235584092-9b5a9ed1-784b-4d62-b59e-f1c6ba76d841.png)
 
 
-Unfortunately I wasn't able to make it to class due to sickness to play in class, however I played it myself at home and had a unique experience with these games. However, I didn't want to miss the fun, so I decided to give the games a try by myself at home. It was an interesting experience exploring the mechanics of the games and imagining how they would have been playing with a group.
+Unfortunately I wasn't able to make it to class due to sickness. However, I didn't want to miss the fun, so I decided to give the games a try by myself at home. It was an interesting experience exploring the mechanics of the games and imagining how they would have been playing with a group.
 
 Two of the games that caught my attention were Quiplash and Fibbage. Quiplash is a party game where players answer prompts with witty responses, and then everyone votes on their favorite response. Though I played alone, I could see the potential for humor and creativity when playing with a group. I imagined my classmates coming up with hilarious answers, making the game a fun way to get to know each other's sense of humor and competitive spirit.
 
