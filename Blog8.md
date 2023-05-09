@@ -1,5 +1,5 @@
 # Final Project
-## My Pitch
+## Our Pitch
 
 <img width="1224" alt="image" src="https://user-images.githubusercontent.com/30399406/237001291-415e67bb-e2b5-4de2-a8df-5611d981c0ae.png">
 The gaming industry has witnessed significant growth in recent years, thanks to innovative games that have captured players' attention. Among these popular games are Gacha games and those with collectibles, which have proven to be a lucrative venture for game developers. This presentation explores the impact of money on these games and the gaming industry as a whole.
